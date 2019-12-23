@@ -1,3 +1,4 @@
+clear
 # Badges and Schedules
 
 ## Objectives
